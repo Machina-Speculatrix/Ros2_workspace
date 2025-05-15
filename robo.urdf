@@ -9,6 +9,7 @@
     <material name ="black">
         <color rgba="0 0 0 1" />
     </material>
+
     <link name="base_footprint" />
     <link name="base_link">
         <visual>
@@ -37,7 +38,6 @@
             <material name="black" />
         </visual>
     </link>
-
     <link name="caster">
         <visual>
             <geometry>
